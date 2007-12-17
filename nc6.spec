@@ -10,7 +10,6 @@ URL:		http://deepspace6.net/projects/netcat6.html
 Source0:	ftp://ftp.deepspace6.net/pub/ds6/sources/nc6/%{name}-%{version}.tar.bz2
 License: 	GPL
 Group: 		Networking/Other
-BuildRoot: 	%{_tmppath}/%{name}-%{version}-root
 BuildRequires:	autoconf2.5
 Provides:	netcat6 = %{version}
 
