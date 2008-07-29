@@ -1,6 +1,6 @@
 %define name 	nc6
 %define version 1.0
-%define release %mkrel 1
+%define release %mkrel 3
 
 Summary: 	Reads and writes data across network connections using TCP or UDP
 Name: 		%{name}
