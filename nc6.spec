@@ -2,7 +2,7 @@ Summary: 	Reads and writes data across network connections using TCP or UDP
 Name: 		nc6
 Version: 	1.0
 Release: 	7
-URL:		http://deepspace6.net/projects/netcat6.html
+URL:		https://deepspace6.net/projects/netcat6.html
 Source0:	ftp://ftp.deepspace6.net/pub/ds6/sources/nc6/%{name}-%{version}.tar.bz2
 License: 	GPL
 Group: 		Networking/Other
